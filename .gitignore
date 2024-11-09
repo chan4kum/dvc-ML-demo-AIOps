@@ -129,6 +129,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/mnt/e/AiOps/Devc_Demo_complete/dvc-ML-demo-AIOps/dvc-ml/
+dvc-ml/
 
 # Spyder project settings
 .spyderproject
